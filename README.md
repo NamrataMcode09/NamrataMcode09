@@ -45,7 +45,7 @@ Implemented a time series forecasting model to predict future sales, helping the
 ## 🌐 Connect With Me
 
 - **Email**: namratamahapatra09@gmail.com
-- **LinkedIn**: [Namrata M](www.linkedin.com/in/namrata-mahapatra-14268b227)
+- **LinkedIn**: [Namrata Mahapatra](https://www.linkedin.com/in/namrata-mahapatra-14268b227/)
 - **GitHub**: [NamrataMcode09](https://github.com/NamrataMcode09)
 
 ## 💬 Let's Collaborate!
