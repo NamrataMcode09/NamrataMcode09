@@ -37,9 +37,9 @@ Implemented a time series forecasting model to predict future sales, helping the
 
 ## 📜 Certifications
 
-- ![CDS](https://img.shields.io/badge/-Certified%20Data%20Scientist-FFCC00?style=flat&logo=codacy&logoColor=black) Certified Data Scientist (CDS)
-- ![Forage](https://img.shields.io/badge/-Data%20Analytics%20Certification-0056D2?style=flat&logo=Forage&logoColor=white) Data Analytics and Visualization Certification (Forage)
-- ![Udemy](https://img.shields.io/badge/-Data%20Science%20Professional%20Certificate-193A3E?style=flat&logo=edx&logoColor=white) Data Science Professional Certificate (Udemy)
+-  Certified Data Scientist
+-  Data Analytics and Visualization Certification (Forage)
+-  Data Science Professional Certificate (Udemy)
 
 
 ## 🌐 Connect With Me
