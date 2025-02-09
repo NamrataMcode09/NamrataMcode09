@@ -32,7 +32,7 @@ Implemented a time series forecasting model to predict future sales, helping the
 
 ## 🎓 Education
 
-- **Master of Scienc in Data Science** - C-DAC Hyderabad
+- **Master of Science in Data Science** - C-DAC Hyderabad
 - **Bachelor of Science in Electronics and IT** - Utkal University, Odisha
 
 ## 📜 Certifications
