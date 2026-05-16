@@ -1,6 +1,6 @@
 # Namrata M
 
-## 🌟 Data Scientist | Machine Learning Enthusiast | Data Storyteller 🌟
+## 🌟 Data Scientist 🌟
 
 Welcome to my GitHub profile! I am Namrata M, a passionate data scientist with expertise in data analysis, machine learning, and statistical modeling. I thrive on turning data into actionable insights and building predictive models to solve real-world problems. Here you'll find a collection of my projects, contributions, and explorations in the fascinating world of data science.
 
